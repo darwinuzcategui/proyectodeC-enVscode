@@ -1,0 +1,11 @@
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.exe
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.deps.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.runtimeconfig.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.runtimeconfig.dev.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.dll
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\bin\Debug\netcoreapp3.0\miPrimerC#Consola.pdb
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\obj\Debug\netcoreapp3.0\miPrimerC#Consola.csprojAssemblyReference.cache
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\obj\Debug\netcoreapp3.0\miPrimerC#Consola.AssemblyInfoInputs.cache
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\obj\Debug\netcoreapp3.0\miPrimerC#Consola.AssemblyInfo.cs
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\obj\Debug\netcoreapp3.0\miPrimerC#Consola.dll
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\miPrimerC#Consola\obj\Debug\netcoreapp3.0\miPrimerC#Consola.pdb

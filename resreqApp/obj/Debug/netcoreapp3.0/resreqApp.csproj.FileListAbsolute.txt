@@ -1,0 +1,13 @@
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.exe
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.deps.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.runtimeconfig.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.runtimeconfig.dev.json
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.dll
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\resreqApp.pdb
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.csprojAssemblyReference.cache
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.AssemblyInfoInputs.cache
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.AssemblyInfo.cs
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.dll
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.pdb
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\GerenciaProgramacion\Desktop\proyectoC#\resreqApp\obj\Debug\netcoreapp3.0\resreqApp.csproj.CopyComplete
